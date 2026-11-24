@@ -61,7 +61,9 @@ Through this project, I gained practical experience in:
 ## 🌐 Play the Game
 
 **Play The Lost Ball:**
+
 UNITY Play - [https://play.unity.com/en/games/08a99105-8934-48d9-a6c0-b1783ec77e90/the-lost-ball-2d-game]
+
 itch.io - [https://vertex-pilot.itch.io/the-lost-ball]
 
 ## 📸 Screenshots
